@@ -14,7 +14,7 @@
         background: #0007;
         width: 40%;
         height: max-content;
-        transition: 5s ease;
+        transition: .5s ease;
     }
 
     .header .nav.active {
